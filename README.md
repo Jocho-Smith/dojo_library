@@ -1,2 +1,2 @@
 # dojo_library
-This is the Back-End for 'Achtsamkeits Dojo'
+This is the db for 'Achtsamkeits Dojo'
